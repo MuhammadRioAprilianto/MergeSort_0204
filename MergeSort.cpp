@@ -28,6 +28,8 @@ void input(){
 
 // membuat fungsi mergesort
 void mergesort(int low, int high){
-    
+    if (low >= high){ // step 1
+        return; // step 1a
+    }
 }
 
