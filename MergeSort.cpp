@@ -73,3 +73,7 @@ void mergesort(int low, int high){
     }
 }
 
+void output (){
+    
+}
+
