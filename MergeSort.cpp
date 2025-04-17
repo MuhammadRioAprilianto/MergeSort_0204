@@ -26,3 +26,8 @@ void input(){
     }
 }
 
+// membuat fungsi mergesort
+void mergesort(int low, int high){
+    
+}
+
